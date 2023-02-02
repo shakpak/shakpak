@@ -9,4 +9,3 @@
 - 📫 How to reach me: ... LinkedIn
 - 😄 Pronouns: ... He/Him 
 - ⚡ Fun fact: ... I am a lamb chop connoisseur
--->
