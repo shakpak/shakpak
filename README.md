@@ -2,7 +2,7 @@
 
 I'm a second year Imperial Mech Eng student and the Vice President of [E.quinox](https://www.imperialcollegeunion.org/activities/a-to-z/equinox).
 
-- 🔭 I’m currently working dabbling into Image Classification with TensorFlow.
+- 🔭 I’m currently dabbling into Image Classification with TensorFlow.
 
 - 🌱 I’m currently learning more about ML and NL, especially their applications in Energy System Optimization, Agriculture and ,more recently, content creation. 
 
